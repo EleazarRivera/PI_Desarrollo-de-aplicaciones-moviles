@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078052290067",
+    "project_id": "catalogo-de-peliculas-3df1d",
+    "storage_bucket": "catalogo-de-peliculas-3df1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078052290067:android:a5a43bcfbe5481882709e6",
+        "android_client_info": {
+          "package_name": "com.example.peliculas1prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQRzGa_j42VfBqEXezqsG8u-oH85LelaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
